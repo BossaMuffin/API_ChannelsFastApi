@@ -1,0 +1,64 @@
+[
+  {
+    "id": "montecarlo",
+    "name": "Montecarlo AM 930",
+    "modulation": "AM",
+    "frequencies": [930],
+    "tags": ["Montevideo", "Uruguay", "radio", "musique", "lounge"],
+    "playbackURL": "http://192.99.150.52:7900/",
+    "description": "Écoutez Radio Monte Carlo 930 en direct et gratuit. Sur mytuner-radio.com. Monte Carlo Lounge."
+  },
+  {
+    "id": "cx42",
+    "name": "CX 42 1370",
+    "modulation": "AM",
+    "frequencies": [1370],
+    "tags": ["Montevideo", "Uruguay", "radio", "news", "sports", "musique", "podcasts"],
+    "playbackURL": "http://usa15.ciudaddigital.com.uy:8138/EmisoraCiudadDeMontevideo",
+    "description": "Listen to free internet radio, news, sports, music, and podcasts. Stream live CNN, FOX News Radio, and MSNBC."
+  },
+  {
+    "id": "oriental",
+    "name": "Oriental AM 770",
+    "modulation": "AM",
+    "frequencies": [770],
+    "tags": ["Montevideo", "Uruguay", "radio", "music", "oriental"],
+    "playbackURL": "http://192.99.150.52:7906/",
+    "description": "Lo Que Siente Mi Pais. Écoutez en direct, voyez playlist et information de la station en ligne."
+  },
+  {
+    "id": "espectador",
+    "name": "Espectador AM 810",
+    "frequencies": [810],
+    "tags": ["Montevideo", "Uruguay", "radio", "politique", "polémique"],
+    "playbackURL": "http://streaming.espectador.com/envivo",
+    "description": "Escuchá El Espectador a través de radios.com.uy. Con un simple click puedes escuchar todas las mejores emisoras."
+  },
+  {
+    "id": "clarin",
+    "name": "Clarin AM 850",
+    "modulation": "AM",
+    "frequencies": [850],
+    "tags": ["Montevideo", "Uruguay", "radio", "musique", "latine"],
+    "playbackURL": "http://usa15.ciudaddigital.com.uy:8032/ClarinAM",
+    "description": "Clarín emite diariamente unas 100 interpretaciones diferentes de Gardel. ... Durante más de 60 años transmitimos por AM 580 y ahora lo hacemos por Internet ..."
+  },
+  {
+    "id": "sarandi",
+    "name": "Sarandi AM 690",
+    "modulation": "AM",
+    "frequencies": [690],
+    "tags": ["Montevideo", "Uruguay", "radio", "culture", "news", "podcasts"],
+    "playbackURL": "http://stream1.sarandi690.com.uy:7910/;stream.mp3",
+    "description": "Programas completos, entrevistas, noticias, cultura y toda la información de Uruguay del mundo."
+  },
+  {
+    "id": "carve",
+    "name": "Carve AM 850",
+    "modulation": "AM",
+    "frequencies": [850],
+    "tags": ["Montevideo", "Uruguay", "radio", "culture", "news"],
+    "playbackURL": "http://192.99.150.52:9202/;",
+    "description": "Pays, Radios uruguayennes Uruguay. Genre, Culture et info. Since 1928, in the neighborhood of Capurro in Montevideo."
+  }
+]
